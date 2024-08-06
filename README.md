@@ -11,7 +11,9 @@ Still under development and never to be completed. This thing is used as a playg
 - [NT3H2111 - NFC](../../raw/master/doc/NT3H2111_2211.pdf)
 - [GDEW026Z39 - 2.6" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
 - or [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
-- both displays use [IL0373](../../raw/master/doc/IL0373.pdf) driver
+- or SE2266FS092 - 2.66" EPD display - no datasheet yet
+- or EL026TR3 - 2.66" EPD display - no datasheet yet - similar to SE2266FS092, used in GL440, compatible with all above
+- all the displays use [IL0373](../../raw/master/doc/IL0373.pdf) or compatible driver
 - [TPS61071 - boost converter](../../raw/master/doc/tps61071.pdf) - used (only?) for white LED 
 - [W25X10CL - Winbond 1Mbits NOR SPI flash](../../raw/master/doc/w25x10cl.pdf)
 
