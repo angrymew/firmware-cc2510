@@ -1,6 +1,9 @@
 # Imagotag 2.6/2.2 BWR GL120/GU140 hacking
 
-[https://github.com/andrei-tatar/imagotag-hack](Original repo andrei-tatar/imagotag-hack)
+Firmware example for Vusion/SES-Imagotag GL120/GU140, CC2510 based electronic shelf labels. Feel free to make your own based on this.
+Still under development and never to be completed. This thing is used as a playground.
+
+[Original repo andrei-tatar/imagotag-hack](https://github.com/andrei-tatar/imagotag-hack)
 
 ## Chips used
 
